@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+__pycache__/
+*.pyc
+graphify-out/
+graph.html
+graph.json
+global-graph.json
+*.log
